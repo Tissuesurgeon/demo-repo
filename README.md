@@ -1,11 +1,11 @@
-# Demo
+# Online Calculator
 
 
-Some description!
+This is an online calculator for simple calculation 
 
 ## subheader
 
-watch tutorial on youtube
+This is to help kick start my DevOps 
 
 ## Local Development
 1. open index.html in your browser
